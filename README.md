@@ -30,8 +30,44 @@ I am actively working on:
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Version Control:** Git & GitHub
+### 🔹 Frontend
+- HTML
+- CSS
+- JavaScript
+
+### 🔹 Backend (Core Focus)
+- Python
+- FastAPI
+- REST API Development
+- JWT Authentication
+
+### 🔹 Database
+- PostgreSQL
+- MySQL
+- SQLAlchemy (ORM)
+
+### 🔹 Data & AI (Working Knowledge)
+- Python for Data Analysis
+- NumPy, Pandas
+- Basic Machine Learning Concepts
+- Prompt Engineering (LLM interaction & optimization)
+
+### 🔹 Roles & Interests
+- Backend Developer (Primary Focus)
+- Aspiring Data Engineer
+- Exploring AI/ML Applications
+- Interested in Data Analysis & Insights
+
+### 🔹 Tools & Technologies
+- Git & GitHub
+- Uvicorn
+- Render (Deployment)
+
+### 🔹 Concepts
+- API Design
+- Database Schema Design
+- Authentication & Authorization
+- System Design Fundamentals
 
 ---
 
@@ -45,12 +81,16 @@ I am actively working on:
 
 ## 👨‍💻 About Me
 
-I am a Computer Science student focused on building scalable backend systems using Python and FastAPI.
+I am a Computer Science student focused on building scalable systems using Python and FastAPI.
 
 Currently working on strengthening:
 - Backend development
+- Frontend development
 - API design
 - System design fundamentals
+- AI ML applications
+- Data Analytics
+- Data Engineering
 
 ---
 
@@ -64,7 +104,7 @@ Currently working on strengthening:
 ## 🚀 Future Direction
 
 This portfolio will evolve to reflect:
-- Real-world backend projects
+- Real-world projects
 - Deployment experience
 - Strong engineering practices
 
@@ -72,4 +112,4 @@ This portfolio will evolve to reflect:
 
 ## ⭐ Note
 
-This repository is actively maintained and will be updated frequently as I continue to improve my skills and projects.
+This repository is actively maintained and will be updated frequently as I continue to improve my skills and projects. This portfolio design is temporary and will be updated professionally.
