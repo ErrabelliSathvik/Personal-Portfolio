@@ -2,7 +2,7 @@
 
 This repository contains my personal portfolio website, currently under active development.
 
-The goal of this portfolio is to showcase my work as a **Software Engineer focused on backend development**, along with selected projects, technical skills, and ongoing learning journey.
+The goal of this portfolio is to showcase my work as a ***Software Engineer***, along with selected projects, technical skills, and ongoing learning journey.
 
 ---
 
