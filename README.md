@@ -58,7 +58,7 @@ Currently working on strengthening:
 ## 🔗 Connect With Me
 
 - GitHub: https://github.com/ErrabelliSathvik
-- LinkedIn: https://linkedin.com/in/your-profile   ← (REPLACE)
+- LinkedIn: https://linkedin.com/in/your-profile  
 
 ---
 
